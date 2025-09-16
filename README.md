@@ -1,2 +1,31 @@
-# season-finder-cpp
-C++ program designed to determine what season it is based on the hemisphere and month.
+# Season Finder
+
+This is a command-line application that tells you the current season for any given month and hemisphere. It was built as a simple exercise to demonstrate conditional logic in C++.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
